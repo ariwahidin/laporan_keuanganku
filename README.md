@@ -1,3 +1,4 @@
+![Aplikasi keuanganku](https://github.com/ariwahidin/laporan_keuanganku/assets/37979597/0e350e28-d3bc-4f4e-86cd-eb93df12fed6)
 # catatan_keuanganku
 
 A new Flutter project.
